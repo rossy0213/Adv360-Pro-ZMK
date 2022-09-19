@@ -77,7 +77,7 @@
             >;
         };
 
-        layer_Layer__4 {
+        layer_CONFIG {
             bindings = <
  &trans  &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3  &bt BT_SEL 4            &bl BL_TOG         &rgb_ug RGB_TOG  &trans  &trans  &trans  &trans  &trans      &trans
  &trans        &trans        &trans        &trans        &trans         &none            &bt BT_CLR  &rgb_ug RGB_MEFS_CMD 5  &trans  &trans  &trans  &trans  &trans      &trans
