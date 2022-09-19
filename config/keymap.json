@@ -37,9 +37,9 @@
     ], [
             "&trans", "&bt BT_SEL 0", "&bt BT_SEL 1", "&bt BT_SEL 2", "&bt BT_SEL 3", "&bt BT_SEL 4",           "&bl BL_TOG",        "&rgb_ug RGB_TOG", "&trans", "&trans", "&trans", "&trans", "&trans",     "&trans",
             "&trans",       "&trans",       "&trans",       "&trans",       "&trans",        "&none",           "&bt BT_CLR", "&rgb_ug RGB_MEFS_CMD 5", "&trans", "&trans", "&trans", "&trans", "&trans",     "&trans",
-            "&trans",       "&trans",       "&trans",       "&trans",       "&trans",       "&trans",           "&bl BL_INC",                  "&none",  "&none",                     "&trans", "&trans", "&bl BL_DEC",      "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-            "&trans",       "&trans",       "&trans",       "&trans",       "&trans",  "&bootloader",               "&trans",                 "&trans",  "&none", "&trans", "&trans", "&trans", "&trans",     "&trans", "&bootloader", "&trans", "&trans", "&trans", "&trans", "&trans",
-       "&bootloader",       "&trans",       "&trans",       "&trans",       "&trans",        "&none",                "&none",                  "&none", "&trans", "&trans", "&trans", "&trans", "&trans",     "&trans",      "&trans", "&trans"
+            "&trans",       "&trans",       "&trans",       "&trans",       "&trans",       "&trans",           "&bl BL_INC",                  "&none",  "&none",                     "&trans", "&trans", "&bl BL_DEC", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
+            "&trans",       "&trans",       "&trans",       "&trans",       "&trans",        "&none",               "&trans",                 "&trans",  "&none", "&trans", "&trans", "&trans", "&trans",     "&trans",  "&none", "&trans", "&trans", "&trans", "&trans", "&trans",
+       "&bootloader",       "&trans",       "&trans",       "&trans",       "&trans",        "&none",                "&none",                  "&none", "&trans", "&trans", "&trans", "&trans", "&trans",     "&trans", "&trans", "&trans"
     ]
   ]
 }
