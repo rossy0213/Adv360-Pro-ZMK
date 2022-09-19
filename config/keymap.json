@@ -6,7 +6,8 @@
     "base",
     "symbol",
     "number",
-    "Direction"
+    "Direction",
+    "CONFIG"
   ],
   "layers": [
     [
@@ -33,6 +34,12 @@
             "&kp LCTRL",    "&kp A",            "&kp S",            "&kp D",            "&kp F",        "&kp G",                      "&mt LEFT_COMMAND C",                           "&mo 2",                   "&mo 2",                                                       "&trans",       "&trans", "&mt RIGHT_COMMAND A",    "&kp",  "&kp LEFT",  "&kp DOWN",  "&kp RIGHT", "&kp SEMICOLON",      "&kp RETURN",
        "&kp LEFT_SHIFT",    "&kp Z",            "&kp X",            "&kp C",            "&kp V",        "&kp B",                                   "&none",                           "&none",          "&kp LEFT_SHIFT",         "&none",        "&none", "&mt RIGHT_COMMAND undefined",        "&none",               "&none",  "&kp N",     "&kp M", "&kp COMMA", "&kp PERIOD",     "&kp SLASH", "&kp RIGHT_SHIFT",
             "&kp LCTRL", "&kp LALT", "&kp LEFT_COMMAND", "&kp LEFT_COMMAND", "&kp LEFT_COMMAND",    "&kp SPACE",                                   "&mo 1",                  "&kp LEFT_SHIFT", "&mt RIGHT_COMMAND SPACE", "&kp BACKSPACE",   "&kp RETURN",           "&kp RIGHT_COMMAND",     "&kp LEFT",            "&kp DOWN", "&kp UP", "&kp RIGHT"
+    ], [
+       "&trans", "&trans", "&trans", "&trans", "&trans",     "&trans",                "&trans",      "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&bt BT_CLR",           "&bootloader", "&bootloader", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans",     "&trans",                "&trans",      "&trans", "&trans",                     "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans",     "&trans",                "&trans",      "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans",     "&trans",                "&trans",      "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans"
     ]
   ]
 }
